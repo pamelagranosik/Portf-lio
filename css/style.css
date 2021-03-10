@@ -1,0 +1,43 @@
+p{
+    font-size: 'Lagosta', cursiva;
+    font-size: 62px;
+    color: #790179;
+    text-align: center;
+}
+
+img{
+    width: 650px;
+    height: 650px;
+    position: fixed;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+
+}
+body{
+    background-image:linear-gradient(to bottom left, #d374d3, white);
+}
+
+h2, h1{
+    text-align: center;
+    color:aqua;
+    font-size: 42px;
+    background-image: linear-gradient(to bottom right, #2121f2, #802c80, #e0b6bd);
+}
+#caixa1{
+    height: 6500px;
+    width: 600px;
+    border: 9px double #410d41;
+    margin-left: 10px;
+    box-shadow: 9px, -9px, #8888d4;
+    border-radius: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    text-decoration: none; 
+    color: black;
+}
+
